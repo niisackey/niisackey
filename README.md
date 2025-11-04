@@ -58,7 +58,7 @@ I’m working towards building my own **super server** to:
 
 ## 📫 **LET’S CONNECT!**
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](www.linkedin.com/in/constant-sackey-0b0716388)
 - 🛠️ [My Portfolio](https://github.com/)
 - ✉️ Always open to collaborations and new ideas.
 
